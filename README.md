@@ -42,5 +42,9 @@ The `.c` files contain the Embedded C implementations. Refer to each file for it
 - Improved understanding of interrupt-driven embedded programming.
 - Developed debugging skills through coding and simulation.
 
+  ### Timer0 — Proteus Circuit Diagram
+
+[View Timer0 Circuit Diagram](Timer-Programs/Timer0-Circuit.png)
+
 ## 👨‍💻 Author
 Piyush Gondane
